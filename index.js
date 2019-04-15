@@ -36,5 +36,5 @@ function findTheCheese(grocery){
 
 function wordswithB(words){
   var wards = ["apple", "banana", "boy"];
-  
+
 }
