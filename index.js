@@ -27,7 +27,7 @@ function longPlaneteerCalls(words){
 
 
 function findTheCheese(grocery){
-  var grocery = ["apple", "banana", "cheddar"];
+  var grocery = ["apple", "banana", "cheddar", "gouda"];
   for (let i = 0; i < grocery.length; i++){
     if (grocery[i] === `cheddar`||grocery[i]===`gouda`||grocery[i]===`camembert`){
     return grocery[i];
