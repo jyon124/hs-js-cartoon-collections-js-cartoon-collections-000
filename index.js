@@ -38,7 +38,7 @@ function wordswithB(words){
   var wards = ["apple", "banana", "boy"];
   for (let i = 0; i < words.length; i++){
     if (words[i].startsWith("b")){
-      
+
     }
   }return words[i].startsWith("b");
 }
