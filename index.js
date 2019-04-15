@@ -33,3 +33,7 @@ function findTheCheese(grocery){
     }
   }return "no cheese!";
 }
+
+function wordswithB(words){
+
+}
