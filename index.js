@@ -36,9 +36,10 @@ function findTheCheese(grocery){
 
 function wordswithB(words){
   var wards = ["apple", "banana", "boy"];
+  var b = [];
   for (let i = 0; i < words.length; i++){
     if (words[i].startsWith("b")){
-
+      b.push(words[i]);
     }
-  }return words[i].startsWith("b");
+  }return b;
 }
