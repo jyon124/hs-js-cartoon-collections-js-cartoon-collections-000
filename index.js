@@ -1,7 +1,7 @@
 
 function dwarfRollCall(dwarves){
     var nameorder = [];
-  for (let i = 0; i < dwarves.length; i++){
+  for (let i = 0; i < dwarves.length/2; i++){
    nameorder += `${i+1}. ${dwarves[i]} `
   }
   return nameorder;
